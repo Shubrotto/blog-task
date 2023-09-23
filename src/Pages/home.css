@@ -1,0 +1,12 @@
+.head {
+  text-align: center;
+}
+
+.list-blog {
+  list-style: none;
+}
+
+ul a {
+  text-decoration: none;
+  text-align: center;
+}
